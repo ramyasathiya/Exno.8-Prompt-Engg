@@ -7,13 +7,9 @@ To perform the Exploration of Prompting Techniques for Audio Generation
 Explore how various prompting techniques can be used to generate and manipulate audio content (e.g., music, sound effects, voice narration) using AI model
 # Output:
 ```
-Certainly! Here's the same experiment titled **"Exploration of Prompting Techniques for Audio Generation"**, presented in a **magazine-style article format** — clear, engaging, and narrative-driven, suitable for a lab report with a creative flair:
-
----
 
 # 🎧 **Exploration of Prompting Techniques for Audio Generation**
 
----
 
 ## 🎯 **Objective**
 
@@ -155,11 +151,7 @@ This exploration opens doors to automated content creation, podcast production, 
 * Riffusion (Spectrogram-based music generation)
 
 ---
-
-Would you like this styled into a **print-ready magazine layout PDF** or **interactive digital presentation**? I can format it accordingly.
-
 ```
-
 
 # Result:
 The Prompt for the above process executed successfully
